@@ -1,4 +1,4 @@
-package com.agustin.rest.webservices.restfulwebservices.basic.auth;
+package com.agustin.rest.basic.auth;
 
 import org.springframework.web.bind.annotation.*;
 
