@@ -1,4 +1,4 @@
-package com.agustin.rest.webservices.restfulwebservices.todo;
+package com.agustin.rest.webservices.restfulwebservices.domain;
 
 import java.util.Date;
 

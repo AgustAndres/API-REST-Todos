@@ -1,5 +1,6 @@
-package com.agustin.rest.webservices.restfulwebservices.todo;
+package com.agustin.rest.webservices.restfulwebservices.domain.repository;
 
+import com.agustin.rest.webservices.restfulwebservices.domain.Todo;
 import java.util.*;
 
 import org.springframework.stereotype.Service;

@@ -1,4 +1,4 @@
-package com.agustin.rest.webservices.restfulwebservices.todo;
+package com.agustin.rest.webservices.restfulwebservices.todo.controller;
 
 import java.net.URI;
 import java.util.List;
@@ -16,7 +16,9 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
-import com.agustin.rest.webservices.restfulwebservices.todo.Todo;
+import com.agustin.rest.webservices.restfulwebservices.domain.Todo;
+import com.agustin.rest.webservices.restfulwebservices.domain.Todo;
+import com.agustin.rest.webservices.restfulwebservices.domain.repository.TodoHardCodedService;
 
 @RestController
 @CrossOrigin(origins = "http://localhost:4200")
